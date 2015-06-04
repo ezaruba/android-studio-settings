@@ -1,0 +1,98 @@
+<application>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="ARE_LINE_NUMBERS_SHOWN" value="true" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
+      <option name="FOREGROUND" value="a8c023" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+    </pattern>
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bfixme\b.*">
+      <option name="FOREGROUND" value="a8c023" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+    </pattern>
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bimplementme\b.*">
+      <option name="FOREGROUND" value="a8c023" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+    </pattern>
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bfuture\b.*">
+      <option name="FOREGROUND" value="a8c023" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+    </pattern>
+    <pattern icon="default" useCustomColors="true" case-sensitive="false" pattern="\bvital\b.*">
+      <option name="FOREGROUND" value="c00d05" />
+      <option name="BACKGROUND" value="ffff61" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="EFFECT_COLOR" value="ff493b" />
+      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+    </pattern>
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bdeploy\b.*">
+      <option name="FOREGROUND" value="a8c023" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+    </pattern>
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btestme\b.*">
+      <option name="FOREGROUND" value="a8c023" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+    </pattern>
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\breminder\b.*">
+      <option name="FOREGROUND" value="a8c023" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+    </pattern>
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bduplication\b.*">
+      <option name="FOREGROUND" value="a8c023" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+    </pattern>
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bdup\b.*">
+      <option name="FOREGROUND" value="a8c023" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+    </pattern>
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bduplicate\b.*">
+      <option name="FOREGROUND" value="a8c023" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+    </pattern>
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\brefactor\b.*">
+      <option name="FOREGROUND" value="a8c023" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+    </pattern>
+    <filter name="TODO">
+      <pattern index="0" />
+      <pattern index="2" />
+      <pattern index="1" />
+    </filter>
+    <filter name="DEPLOY">
+      <pattern index="5" />
+      <pattern index="6" />
+    </filter>
+    <filter name="FUTURE">
+      <pattern index="3" />
+    </filter>
+    <filter name="VITAL">
+      <pattern index="4" />
+    </filter>
+    <filter name="TEST">
+      <pattern index="6" />
+    </filter>
+    <filter name="REFACTOR">
+      <pattern index="10" />
+      <pattern index="9" />
+      <pattern index="8" />
+      <pattern index="11" />
+    </filter>
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="breadcrumbsEnabledInXml" value="true" />
+    <option name="insertQuotesForAttributeValue" value="false" />
+  </component>
+</application>

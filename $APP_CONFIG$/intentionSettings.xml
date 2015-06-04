@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Declaration/Generate delegated method with default parameter value" />
+  </component>
+</application>
+
